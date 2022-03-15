@@ -1,0 +1,17 @@
+div { 
+    background-color: red;
+}
+
+#container {
+    background-color: blue;
+}
+
+#zero {
+    background-color: magenta;
+}
+
+#two {
+    background-color: forestgreen;
+    display: grid;
+    justify-content: center;
+}
