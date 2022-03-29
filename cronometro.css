@@ -1,0 +1,9 @@
+#kssk{
+    background-color: red;
+}
+
+div{
+    background-color:blue;
+    display: grid;
+    justify-content: center;
+}
